@@ -9,6 +9,7 @@ RUN \
 
 RUN  \
   pip3 install -U nltk \
+  requests \
   tqdm \
   django \
   asgi_redis \
